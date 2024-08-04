@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gayad\\source\\repos\\AirportSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\models\\flightprotocols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\models\\flightprotocols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\models\\leg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\models\\leg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\migrations\\20240803185547_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\migrations\\20240803185547_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|c:\\users\\gayad\\source\\repos\\airportsim\\airportsim\\models\\flightstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BF669-32A9-4FB2-B64D-24FFC17F5928}|AirportSim\\AirportSim.csproj|solutionrelative:airportsim\\models\\flightstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 619,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Program.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Program.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Program.cs",
+              "RelativeToolTip": "AirportSim\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:22:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Services\\LoggingService.cs",
+              "RelativeToolTip": "AirportSim\\Services\\LoggingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:06:14.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Services\\FlightService.cs",
+              "RelativeToolTip": "AirportSim\\Services\\FlightService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:05:58.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\Log.cs",
+              "RelativeToolTip": "AirportSim\\Models\\Log.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:03:13.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightProtocols.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\FlightProtocols.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Models\\FlightProtocols.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\FlightProtocols.cs",
+              "RelativeToolTip": "AirportSim\\Models\\FlightProtocols.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:25:15.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "AirportSim\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:40:40.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Data\\DataContext.cs",
+              "RelativeToolTip": "AirportSim\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:19:59.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Leg.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\Leg.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Models\\Leg.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\Leg.cs",
+              "RelativeToolTip": "AirportSim\\Models\\Leg.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADgvxwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:20:43.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\Flight.cs",
+              "RelativeToolTip": "AirportSim\\Models\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:05:33.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\appsettings.json",
+              "RelativeDocumentMoniker": "AirportSim\\appsettings.json",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\appsettings.json",
+              "RelativeToolTip": "AirportSim\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T18:43:21.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlightStatus.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\FlightStatus.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Models\\FlightStatus.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Models\\FlightStatus.cs",
+              "RelativeToolTip": "AirportSim\\Models\\FlightStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:02:22.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240803185547_initDb.cs",
+              "DocumentMoniker": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Migrations\\20240803185547_initDb.cs",
+              "RelativeDocumentMoniker": "AirportSim\\Migrations\\20240803185547_initDb.cs",
+              "ToolTip": "C:\\Users\\gayad\\source\\repos\\AirportSim\\AirportSim\\Migrations\\20240803185547_initDb.cs",
+              "RelativeToolTip": "AirportSim\\Migrations\\20240803185547_initDb.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:55:48.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
