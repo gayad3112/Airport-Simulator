@@ -135,3 +135,4 @@ C:\Users\gayad\source\repos\AirportSim\AirportSim\obj\Debug\net8.0\refint\Airpor
 C:\Users\gayad\source\repos\AirportSim\AirportSim\obj\Debug\net8.0\AirportSim.pdb
 C:\Users\gayad\source\repos\AirportSim\AirportSim\obj\Debug\net8.0\AirportSim.genruntimeconfig.cache
 C:\Users\gayad\source\repos\AirportSim\AirportSim\obj\Debug\net8.0\ref\AirportSim.dll
+C:\Users\gayad\source\repos\AirportSim\AirportSim\obj\Debug\net8.0\AirportSim.sourcelink.json
