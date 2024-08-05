@@ -1,0 +1,12 @@
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\bin\Debug\net8.0\ClientLogic.deps.json
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\bin\Debug\net8.0\ClientLogic.dll
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\bin\Debug\net8.0\ClientLogic.pdb
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.AssemblyInfoInputs.cache
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.AssemblyInfo.cs
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.csproj.CoreCompileInputs.cache
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.dll
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\refint\ClientLogic.dll
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.pdb
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ref\ClientLogic.dll
+C:\Users\gayad\source\repos\AirportSimulator\ClientLogic\obj\Debug\net8.0\ClientLogic.sourcelink.json
