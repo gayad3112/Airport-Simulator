@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\FlightGenerator\\FlightGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\gayad\\source\\repos\\AirportSim\\FlightGenerator\\FlightGenerator.csproj",
       "projectName": "FlightGenerator",
-      "projectPath": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\FlightGenerator\\FlightGenerator.csproj",
+      "projectPath": "C:\\Users\\gayad\\source\\repos\\AirportSim\\FlightGenerator\\FlightGenerator.csproj",
       "packagesPath": "C:\\Users\\gayad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\FlightGenerator\\obj\\",
+      "outputPath": "C:\\Users\\gayad\\source\\repos\\AirportSim\\FlightGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gayad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\ClientLogic\\ClientLogic.csproj": {
-              "projectPath": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\ClientLogic\\ClientLogic.csproj"
+            "C:\\Users\\gayad\\source\\repos\\AirportSim\\ClientLogic\\ClientLogic.csproj": {
+              "projectPath": "C:\\Users\\gayad\\source\\repos\\AirportSim\\ClientLogic\\ClientLogic.csproj"
             }
           }
         }

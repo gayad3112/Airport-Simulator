@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\ClientLogic\\ClientLogic.csproj",
+      "projectUniqueName": "C:\\Users\\gayad\\source\\repos\\AirportSim\\ClientLogic\\ClientLogic.csproj",
       "projectName": "ClientLogic",
-      "projectPath": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\ClientLogic\\ClientLogic.csproj",
+      "projectPath": "C:\\Users\\gayad\\source\\repos\\AirportSim\\ClientLogic\\ClientLogic.csproj",
       "packagesPath": "C:\\Users\\gayad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gayad\\source\\repos\\AirportSimulator\\ClientLogic\\obj\\",
+      "outputPath": "C:\\Users\\gayad\\source\\repos\\AirportSim\\ClientLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gayad\\AppData\\Roaming\\NuGet\\NuGet.Config",
