@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlightGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3f69ebc50dc814d7e2fa9a5989c90c3353853f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+134d21f374435f45e818179c03e1c873c90fce16")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlightGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlightGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
